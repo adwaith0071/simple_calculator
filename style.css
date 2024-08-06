@@ -1,0 +1,24 @@
+table{
+    background-color: black;
+    border: 3px solid whitesmoke;
+    width: 30px;
+    border-radius: 10px;
+}
+button{
+    background-color: azure;
+    width: 100px;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: larger;
+}
+td{
+    padding: 3px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    border: 3px solid;
+}
+body{
+    background-image: url(./plain-smooth-green-wall-texture.jpg);
+}
